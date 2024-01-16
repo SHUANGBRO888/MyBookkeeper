@@ -6,6 +6,7 @@ Transaction Management: Implemented functionalities to add, edit, and delete tra
 Data Visualization: Designed a comprehensive summary dashboard displaying the count and proportion of income and expense transactions. Incorporated detailed breakdowns showing the percentage of each income and expense category, providing users with granular insights into their spending and earning patterns. Implemented a date range filter, allowing users to view financial summaries for specific periods, ensuring tailored insights.
 
 Backend Development: Crafted efficient RESTful APIs using Node.js and Express.js to support frontend operations and data retrieval. Managed data storage and retrieval using MongoDB, ensuring optimal performance and data consistency.
+
 Technologies Used: Node.js, Express.js, MongoDB, React.js, Ant Design.
 
 ### `npm start`
