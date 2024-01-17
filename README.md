@@ -1,15 +1,43 @@
-Overview: Developed a user-friendly daily expense tracker application that allows users to effectively record, edit, and monitor their income and expenditures. The application emphasizes on providing users with detailed financial summaries, empowering them to make informed financial decisions.
+# myBookkeeper
 
-Key Responsibilities:
-Transaction Management: Implemented functionalities to add, edit, and delete transaction records seamlessly. Developed a user-friendly interface using React.js, enabling intuitive data entry and management. Set up backend validation and data consistency checks to ensure accuracy in transaction records.
+## Overview
+`myBookkeeper` is a comprehensive, user-friendly daily expense tracker application designed to streamline the recording, editing, and monitoring of personal income and expenditures. This application is tailored to provide users with detailed financial summaries, enabling them to make well-informed financial decisions.
 
-Data Visualization: Designed a comprehensive summary dashboard displaying the count and proportion of income and expense transactions. Incorporated detailed breakdowns showing the percentage of each income and expense category, providing users with granular insights into their spending and earning patterns. Implemented a date range filter, allowing users to view financial summaries for specific periods, ensuring tailored insights.
+[Check out myBookkeeper here!](https://gezipro.net/frontend/react/8001/login)
 
-Backend Development: Crafted efficient RESTful APIs using Node.js and Express.js to support frontend operations and data retrieval. Managed data storage and retrieval using MongoDB, ensuring optimal performance and data consistency.
+## Key Features
 
-Technologies Used: Node.js, Express.js, MongoDB, React.js, Ant Design.
+### Transaction Management
+- **User-Friendly Interface:** Developed using React.js to facilitate intuitive data entry and transaction management.
+  
+  ![image](https://github.com/SHUANGBRO888/MyBookkeeper/assets/110591410/488782cc-5b45-43b0-a9cb-0462ab16699d)
 
-### `npm start`
+- **CRUD Operations:** Enabled users to add, edit, and delete transaction records with ease.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+  ![image](https://github.com/SHUANGBRO888/MyBookkeeper/assets/110591410/de16fcdb-6c76-458a-9de0-2f66a694f67f)
+
+- **Data Integrity:** Established backend validation and data consistency checks for accurate transaction recording.
+
+### Data Visualization
+- **Summary Dashboard:** Offers a visual representation of income and expense transactions, including counts and proportions.
+- **Categorical Breakdown:** Displays the percentage distribution of various income and expense categories for deeper financial insights.
+- **Date Range Filtering:** Allows users to view financial summaries for specific time periods, catering to personalized analysis needs.
+  
+  ![image](https://github.com/SHUANGBRO888/MyBookkeeper/assets/110591410/235fd036-d913-4330-96a2-949dc4c3b41d)
+  
+## General Features
+
+- **Login / SignUp:**
+  Login
+  ![image](https://github.com/SHUANGBRO888/MyBookkeeper/assets/110591410/53d4a322-b246-4a6d-a65d-c59f3ce7138c)
+  SignUp
+  ![image](https://github.com/SHUANGBRO888/MyBookkeeper/assets/110591410/f3a834be-20bb-455f-89c4-57e3f3dcc8b9)
+
+### Backend Development
+- **RESTful API Design:** Utilized Node.js and Express.js to create efficient APIs for frontend interaction and data retrieval.
+- **Database Management:** Implemented MongoDB for robust data storage, retrieval, and ensuring high performance and consistency.
+
+## Technologies Used
+- **Backend:** Node.js, Express.js, MongoDB
+- **Frontend:** React.js, Ant Design
+
